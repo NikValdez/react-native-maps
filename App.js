@@ -34,7 +34,7 @@ export default function App() {
 					})
 				}}
 				query={{
-					key: "AIzaSyAfevgpvPNjRALaz3jPJhNgE040p9GnH5o",
+					key: "KEY",
 					language: "en",
 					components: "country:us",
 					types: "establishment",
